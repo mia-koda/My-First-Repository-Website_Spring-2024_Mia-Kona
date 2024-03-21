@@ -1,0 +1,35 @@
+
+<html class="no-js" lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>Responsive Layouts</title>
+  <meta name="description" content="This site will serve as the hub for many sub responsive layouts">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <meta property="og:title" content="">
+  <meta property="og:type" content="">
+  <meta property="og:url" content="">
+  <meta property="og:image" content="">
+
+  <link rel="manifest" href="site.webmanifest">
+  <link rel="apple-touch-icon" href="icon.png">
+  <!-- Place favicon.ico in the root directory -->
+
+  <link rel="stylesheet" href="css/normalize.css">
+  <link rel="stylesheet" href="css/main.css">
+
+  <meta name="theme-color" content="#fafafa">
+</head>
+
+<body>
+  <!-- Place your site's HTML here -->
+  <p>This text will display on your site! Jan 19</p>
+  <h1>Are Gremlings really Furbys? Find out today!</h1>
+  <script src="js/main.js"></script>
+
+  <h2>Where do we even begin?<h2>
+  <h3>it is suspected that... Advertised as featuring “the actual voice of Gizmo,” the mash-up toy was reportedly limited to 250,000 pieces worldwide. The release of a branded Gremlins Furby confirmed suspicions that Hasbro stole the design from the film, and the toy itself made the comparison unmistakable<h3>
+  <h1>hello ladies <h1>
+
+</html>
