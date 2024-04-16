@@ -61,9 +61,9 @@ p {
 }
  div.typefaces-list {
 
-    background-color: lightgrey;
+    background-color: rgb(31, 31, 31);
     width: 300px;
-    border: 15px solid green;
+    border: 15px solid rgb(80, 20, 233);
     padding: 50px;
     margin: 20px;
 
