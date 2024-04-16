@@ -26,9 +26,26 @@ div.cuadradito-1 {
     font-weight: 400;
     font-style: normal; 
   }
+  
+.Light {
+    font-family: "futura-pt", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+  
 .Book {
     font-family: "futura-pt", sans-serif;
     font-weight: 400;
     font-style: normal;
+}
+.Medium {
+    font-family: "futura-pt", sans-serif;
+    font-weight: 500;
+    font-style: normal;
   }
 
+.Demi {
+    font-family: "futura-pt", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+  }
