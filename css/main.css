@@ -4,12 +4,17 @@ background-color: rgb(31, 31, 31);
 color: #faebd7;
 }
 
-
+div.Everything {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 100px;
+    margin-left: 100px;
+}
 
 div.cuadradito-A {
     position: relative;
-    left: 480px;
-    width: auto;
+    left: 700px;
+    width: 330px;
     padding: 20px;
     border: 15px solid #faebd7;
 }
@@ -17,7 +22,7 @@ div.cuadradito-A {
 div.cuadradito-B {
     position: static;
     left: 40px;
-    width: 300px;
+    width: 400px;
     padding: 20px;
     border: 15px solid #faebd7;
 }
@@ -112,26 +117,23 @@ p {
     font-weight: 800;
     font-style: italic;
 }
+
+
+
  div.typefaces-list {
 
     position: relative;
     left: 500px;
     background-color: rgb(31, 31, 31);
     width: 500px;
-    border: 15px solid rgb(238, 234, 222);
+    border: 15px solid #faebd7;
     padding: 20px;
     margin: 20px;
     line-height: 1.2;
-    color: whitesmoke
+    color: #faebd7
 
 }
 
-div.Everything {
-    margin-top: 100px;
-    margin-bottom: 100px;
-    margin-right: 100px;
-    margin-left: 100px;
-}
 
 div.Quote-1 {
     font-family: "futura-pt", sans-serif;
@@ -150,4 +152,11 @@ div.main-title {
     font-weight: 700;
     font-style: normal;
     
+}
+
+.HEADER {  
+    font-family: "futura-pt", sans-serif;
+    font-weight: 800;
+    font-style: normal;
+    letter-spacing: .5px;
 }
