@@ -1,17 +1,27 @@
 /* Place CSS styles here */
 body{
-background-color: blueviolet;
-color: antiquewhite;
+background-color: rgb(31, 31, 31);
+color: #faebd7;
 }
 
-div.cuadradito-1 {
-    font-family: futura, Arial, sans-serif;
-    position: fixed;
-    bottom: 0;
-    right: 0;
-    width: 300px;
-    border: 3px solid #73AD21;
+
+
+div.cuadradito-A {
+    position: relative;
+    left: 480px;
+    width: auto;
+    padding: 20px;
+    border: 15px solid #faebd7;
 }
+
+div.cuadradito-B {
+    position: static;
+    left: 40px;
+    width: 300px;
+    padding: 20px;
+    border: 15px solid #faebd7;
+}
+
 ul.typefaces {
     list-style-type: none;
     margin: 0;
@@ -20,7 +30,7 @@ ul.typefaces {
 p {
     font-family: "futura-pt", sans-serif;
     font-weight: 400;
-    font-style: normal; 
+    font-style: normal;
 }
 
 .Title {  
@@ -34,36 +44,73 @@ p {
     font-weight: 300;
     font-style: normal;
 } 
+.Light-Italic{
+    font-family: "futura-pt", sans-serif;
+    font-weight: 300;
+    font-style: italic;
+} 
 .Book {
     font-family: "futura-pt", sans-serif;
     font-weight: 400;
     font-style: normal;
+}
+.Book-Italic {
+    font-family: "futura-pt", sans-serif;
+    font-weight: 400;
+    font-style: italic;
 }
 .Medium {
     font-family: "futura-pt", sans-serif;
     font-weight: 500;
     font-style: normal;
 }
+.Medium-Italic {
+    font-family: "futura-pt", sans-serif;
+    font-weight: 500;
+    font-style: italic;
+}
 .Demi {
     font-family: "futura-pt", sans-serif;
     font-weight: 600;
     font-style: normal;
+}
+.Demi-Italic {
+    font-family: "futura-pt", sans-serif;
+    font-weight: 600;
+    font-style: italic;
 }
 .Heavy {  
     font-family: "futura-pt", sans-serif;
     font-weight: 700;
     font-style: normal;
 }
+.Heavy-Italic {  
+    font-family: "futura-pt", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+}
+
 .Bold {  
     font-family: "futura-pt-bold", sans-serif;
     font-weight: 700;
     font-style: normal;
 }
+.Bold-Italic {  
+    font-family: "futura-pt-bold", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+}
+
 .Extra-Bold {  
     font-family: "futura-pt", sans-serif;
     font-weight: 800;
     font-style: normal;
     letter-spacing: .5px;
+}
+.Extra-Bold-Italic {  
+    font-family: "futura-pt", sans-serif;
+    font-weight: 800;
+    font-style: italic;
 }
  div.typefaces-list {
 
@@ -77,4 +124,30 @@ p {
     line-height: 1.2;
     color: whitesmoke
 
+}
+
+div.Everything {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+div.Quote-1 {
+    font-family: "futura-pt", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+pre {
+    font-family: "futura-pt", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+div.main-title {
+    font-family: "futura-pt", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    
 }
