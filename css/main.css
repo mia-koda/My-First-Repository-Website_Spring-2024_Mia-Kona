@@ -58,13 +58,15 @@ p {
     font-family: "futura-pt", sans-serif;
     font-weight: 800;
     font-style: normal;
+    letter-spacing: .5px;
 }
  div.typefaces-list {
 
     background-color: rgb(31, 31, 31);
-    width: 300px;
+    width: 500px;
     border: 15px solid rgb(238, 234, 222);
     padding: 20px;
     margin: 20px;
+    line-height: 1.8;
 
 }
